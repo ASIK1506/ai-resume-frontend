@@ -11,13 +11,22 @@
   },
   "dependencies": {
     "framer-motion": "^12.23.24",
+<<<<<<< HEAD
+=======
+    "lucide-react": "^0.553.0",
+>>>>>>> 50b91e41e56f2b2acf7a6ca1fd16cf5fbb597d7b
     "react": "^19.2.0",
     "react-dom": "^19.2.0"
   },
   "devDependencies": {
     "@eslint/js": "^9.39.1",
+<<<<<<< HEAD
     "@types/react": "^19.2.2",
     "@types/react-dom": "^19.2.2",
+=======
+    "@types/react": "^19.2.4",
+    "@types/react-dom": "^19.2.3",
+>>>>>>> 50b91e41e56f2b2acf7a6ca1fd16cf5fbb597d7b
     "@vitejs/plugin-react": "^5.1.0",
     "autoprefixer": "^10.4.22",
     "eslint": "^9.39.1",
